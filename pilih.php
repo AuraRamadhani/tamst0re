@@ -68,8 +68,8 @@
         <h1>Pilih Metode Pembayaran!</h1><br>
         
          <ul>
-                <li><a class="dua" href="tunai.html">Tunai</a></li><br>
-                <li><a class="dua" href="tf.html">Transfer</a></li><br>
+                <li><a class="dua" href="tunai.php">Tunai</a></li><br>
+                <li><a class="dua" href="tf.php">Transfer</a></li><br>
                 <li><a class="dua" href="order.php">Kembali</a></li>
             </ul>
 
